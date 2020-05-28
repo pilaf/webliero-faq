@@ -1,6 +1,6 @@
 <p align="center"><img src="wl-faq-logo.svg" width="300"></p>
 
-This is meant as a semi-official community updated FAQ for [WebLiero](https://www.webliero.com).
+This is meant as a community-updated FAQ for [WebLiero](https://www.webliero.com).
 
 To add a question create an issue or submit a pull request (all you need to know is Markdown syntax).
 
