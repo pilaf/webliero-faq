@@ -5,11 +5,11 @@ To add a question create an issue or submit a pull request (all you need to know
 ## Index
 
 * General
-** How is WebLiero different from the original DOS Liero?
-** Does WebLiero support loading custom Liero maps?
-** How can create my own maps or edit existing ones?
+  * How is WebLiero different from the original DOS Liero?
+  * Does WebLiero support loading custom Liero maps?
+  * How can create my own maps or edit existing ones?
 * Room List
-** What are rooms with DED in their name?
+  * What are rooms with DED in their name?
 
 ## General
 
