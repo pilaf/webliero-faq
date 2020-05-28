@@ -20,6 +20,7 @@ Besides the obvious differences (like the fact that it's played in a browser and
 * Worms have no shadows
 * The random map generator uses a different (improved) terrain generation algorithm
 * Maps can be mirrored to allow double the play area
+* *(this list is incomplete, help me complete it)*
 
 ### Does WebLiero support loading custom Liero maps?
 
