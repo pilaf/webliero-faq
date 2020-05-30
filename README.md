@@ -64,7 +64,7 @@ No. Every player you see is a real human.
 The default control scheme is:
 
 * Left/Right arrows to move
-* Up/down arrows to aim
+* Up/Down arrows to aim
 * A/S/D are your default keys to shoot, jump, and show weapon, respectively
 * Press show weapon + arrow (left or right) to switch weapons
 * Press show weapon + jump to shoot the ninja rope
