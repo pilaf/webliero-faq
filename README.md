@@ -19,6 +19,7 @@ To add a question create an issue or submit a pull request (all you need to know
 * [Mods](#mods)
   * [Does WebLiero support loading custom mods](#does-webliero-support-loading-mods)
   * [Can WebLiero load original LIERO.EXE mods?](#can-webliero-load-original-lieroexe-mods)
+  * [How can I make my own mods?](#how-can-i-make-my-own-mods)
 * [Community](#community)
   * [Where can I interact with the WebLiero community?](#where-can-i-interact-with-the-webliero-community)
   * [What are other websites related to WebLiero?](#what-are-other-websites-related-to-webliero)
@@ -82,11 +83,19 @@ DED stands for *dedicated*. Those are rooms hosted by dedicated servers and are 
 
 ### Does WebLiero support loading custom mods?
 
-Yes. You can load mods by entering the `/loadmod` command in the chat.
+Yes. You can load mods by entering the `/loadmod` command in the chat and selecting both the mod.json5 and sprites.wlsprt files.
 
 ### Can WebLiero load original LIERO.EXE mods?
 
 No. WebLiero uses its own mod format. Eventually there may be tools to convert from original LIERO.EXE mods to WebLiero mods.
+
+### How can I make my own mods?
+
+While you can, and are definitely welcome to create WebLiero mods, be warned that the mod format for WebLiero is not fully "solidified" yet. In other words, mods you create now may become incompatible and require updating as new versions of WebLiero get released. Once the developer of WebLiero settles on a final mod format this warning may become obsolete, but there are no guarantees.
+
+That said, [Scharnvirk's WebLiero mods GitHub repo](https://github.com/Scharnvirk/webliero_mods) is a good place to start if you want to mod WebLiero. There's no official documentation yet, but you can tinker with the mods in that repo and try to figure out how things work on your own (it's not very difficult).
+
+As WebLiero matures better tooling for editing mods may appear.
 
 ## Community
 
