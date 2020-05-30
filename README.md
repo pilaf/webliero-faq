@@ -21,6 +21,7 @@ To add a question create an issue or submit a pull request (all you need to know
   * [What are some lesser known tips on Liero controls?](#what-are-some-lesser-known-tips-on-liero-controls)
 * [Game modes](#game-modes)
   * [What game modes does WebLiero support?](#what-game-modes-does-webliero-support)
+  * [Can I implement my own game modes?](#can-i-implement-my-own-game-modes)
 * [Room List](#room-list)
   * [What are rooms with DED in their name?](#what-are-rooms-with-ded-in-their-name)
 * [Mods](#mods)
@@ -131,6 +132,14 @@ Players have a limited amount of lives. Losing all lives forces you into spectat
 #### Team Deathmatch
 
 Players pick one of two teams. Every death counts as a point for the other team, even if it's a suicide or a self-team-kill. The first team to reach the score limit, or the team with the highest score when the clock reaches 0:00 wins the match.
+
+### Can I implement my own game modes?
+
+The short answer is no.
+
+That said, if you host your own dedicated server you can script your room to certain degree. While this doesn't allow you to significantly alter game state, it does provide you with some tricks that could be used to implement some types of game modes. For example, a tournament mode could be implemented this way (with 1v1 matches, or in teams using Team Deathmatch).
+
+In addition, some room settings, maps and/or mods can significantly alter gameplay as to be considered distinct game modes. For instance, a racetrack-shaped map combined with only allowing missiles can become a racing game (although a very basic one).
 
 ## Room List
 
