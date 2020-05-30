@@ -36,7 +36,7 @@ To add a question create an issue or submit a pull request (all you need to know
 
 ### Which browsers support WebLiero?
 
-Firefox, Chrome/Chromium and other Chromium-based browsers (e.g. Opera).
+Firefox, Chrome/Chromium and other Chromium-based browsers (e.g. Opera). Safari is known **not** to work.
 
 ### How is WebLiero different from the original MS-DOS Liero?
 
