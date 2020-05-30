@@ -10,6 +10,7 @@ To add a question create an issue or submit a pull request (all you need to know
   * [How is WebLiero different from the original DOS Liero?](#how-is-webliero-different-from-the-original-dos-liero)
   * [Does WebLiero support loading custom Liero maps?](#does-webliero-support-loading-custom-liero-maps)
   * [How can create my own maps or edit existing ones?](how-can-create-my-own-maps-or-edit-existing-ones)
+  * [Does WebLiero have bots?](does-webliero-have-bots)
 * [Room List](#room-list)
   * [What are rooms with DED in their name?](#what-are-rooms-with-ded-in-their-name)
 
@@ -31,6 +32,10 @@ Yes. If you're the host of a room you can load maps in .lev format from the Admi
 ### How can create my own maps or edit existing ones?
 
 Check the [liero-palettes](https://github.com/pilaf/liero-palettes) GitHub repo, which contains a guide on how to edit Liero maps using available free software.
+
+### Does WebLiero have bots?
+
+No. Every player you see is a real human.
 
 ## Room List
 
