@@ -19,6 +19,7 @@ To add a question create an issue or submit a pull request (all you need to know
   * [What are the default WebLiero controls?](#what-are-the-default-webliero-controls)
   * [What are some popular alternative control schemes?](#what-are-some-popular-alternative-control-schemes)
   * [What are some lesser known tips on Liero controls?](#what-are-some-lesser-known-tips-on-liero-controls)
+  * [How can I improve my aim?](#how-can-i-improve-my-aim)
 * [Game modes](#game-modes)
   * [What game modes does WebLiero support?](#what-game-modes-does-webliero-support)
   * [Can I implement my own game modes?](#can-i-implement-my-own-game-modes)
@@ -110,6 +111,10 @@ While you should tinker with the control scheme on your own to see what works be
 * You can shorten/lengthen the ninja rope by holding the show weapon key and pressing up/down
 * You can make missiles go faster by pressing the up key
 * On steeply sloped surfaces (i.e. ramps) you can quickly gain vertical speed by repeatedly tapping the jump key while walking towards the ramp
+
+### How can I improve my aim?
+
+WebLiero doesn't have an official practice mode, but you can easily set up a mekeshift one by creating a private room and changing the room settings to drop health packs at frequent intervals and use them as aiming targets. [Here's a video](https://www.youtube.com/watch?v=qB9agMscitg) of a practice session following that method.
 
 ## Game modes
 
