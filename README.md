@@ -81,6 +81,7 @@ Additional keys:
 
 * Hold the tab key to view the player scores
 * Press enter to open the chat window
+* While spectating, press Left/Right to change which player the camera follows
 
 ### What are some popular alternative control schemes?
 
