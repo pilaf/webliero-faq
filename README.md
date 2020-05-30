@@ -95,6 +95,8 @@ While you can, and are definitely welcome to create WebLiero mods, be warned tha
 
 That said, [Scharnvirk's WebLiero mods GitHub repo](https://github.com/Scharnvirk/webliero_mods) is a good place to start if you want to mod WebLiero. There's no official documentation yet, but you can tinker with the mods in that repo and try to figure out how things work on your own (it's not very difficult).
 
+If you have questions you can ask in the community [Discord](#where-can-i-interact-with-the-webliero-community).
+
 As WebLiero matures better tooling for editing mods may appear.
 
 ## Community
