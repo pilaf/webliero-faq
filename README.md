@@ -4,6 +4,8 @@ This is meant as a community-updated FAQ for [WebLiero](https://www.webliero.com
 
 To add a question create an issue or submit a pull request (all you need to know is Markdown syntax).
 
+You can share this FAQ with the shortened URL [git.io/wlfaq](https://git.io/wlfaq)
+
 ## Index
 
 * [General](#general)
