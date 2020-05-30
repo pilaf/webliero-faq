@@ -85,9 +85,9 @@ The default control scheme is:
 
 * Left/Right arrows to move
 * Up/Down arrows to aim
-* A/S/D to shoot, jump, and show weapon, respectively
-* Press show weapon (D) + arrow (left or right) to switch weapons
-* Press show weapon (D) + jump (S) to shoot the ninja rope
+* A/S/D to show weapon, jump, and shoot, respectively
+* Press show weapon (A) + arrow (left or right) to switch weapons
+* Press show weapon (A) + jump (S) to shoot the ninja rope
 * To dig through dirt, tap C, or alternatively, hold the forward arrow key while tapping backward arrow
 
 Additional keys:
