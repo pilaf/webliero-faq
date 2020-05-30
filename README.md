@@ -144,7 +144,7 @@ The short answer is no.
 
 That said, if you host your own dedicated server you can script your room to certain degree. While this doesn't allow you to significantly alter game state, it does provide you with some tricks that could be used to implement some types of game modes. For example, a tournament mode could be implemented this way (with 1v1 matches, or in teams using Team Deathmatch).
 
-In addition, some room settings, maps and/or mods can significantly alter gameplay as to be considered distinct game modes. For instance, a racetrack-shaped map combined with only allowing missiles can become a racing game (although a very basic one).
+In addition, some room settings, maps and/or mods can significantly alter gameplay as to be considered distinct game modes. For instance, a racetrack-shaped map combined with only allowing missiles can become a racing game (albeit a very basic one).
 
 ## Room List
 
