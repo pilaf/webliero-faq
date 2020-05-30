@@ -12,6 +12,7 @@ To add a question create an issue or submit a pull request (all you need to know
   * [How can I create my own maps or edit existing ones?](#how-can-i-create-my-own-maps-or-edit-existing-ones)
   * [Does WebLiero support Gusanos/LieroX/OpenLieroX maps or mods?](#does-webliero-support-gusanoslieroxopenlierox-maps-andor-mods)
   * [Does WebLiero have bots?](#does-webliero-have-bots)
+  * [Why doesn't WebLiero have mouse aim?](#why-doesnt-webliero-have-mouse-aim)
 * [How to play](#how-to-play)
   * [What are the default WebLiero controls?](#what-are-the-default-webliero-controls)
   * [What are some popular alternative control schemes?](#what-are-some-popular-alternative-control-schemes)
@@ -54,6 +55,12 @@ No. WebLiero is based on the original MS-DOS Liero, and thus is only compatible 
 ### Does WebLiero have bots?
 
 No. Every player you see is a real human.
+
+### Why doesn't WebLiero have mouse aim?
+
+The original MS-DOS Liero had keyboard aim controls and WebLiero tries to mimic the original Liero as much as possible. Incorporating mouse aim would also drastically change the the metagame, giving an unfair advantage to mouse-aiming players, while many in the Liero community prefer to keep the classic keyboard aim controls. In addition, the developer of WebLiero has said that there may be technical reasons why adding mouse aim may not be as simple as it seems.
+
+That is not to say that WebLiero will never have mouse aim, but it's a complex issue.
 
 ## How to play
 
