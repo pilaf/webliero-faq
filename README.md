@@ -7,9 +7,10 @@ To add a question create an issue or submit a pull request (all you need to know
 ## Index
 
 * [General](#general)
-  * [How is WebLiero different from the original DOS Liero?](#how-is-webliero-different-from-the-original-dos-liero)
+  * [How is WebLiero different from the original MS-DOS Liero?](#how-is-webliero-different-from-the-original-ms-dos-liero)
   * [Does WebLiero support loading custom Liero maps?](#does-webliero-support-loading-custom-liero-maps)
-  * [How can create my own maps or edit existing ones?](how-can-create-my-own-maps-or-edit-existing-ones)
+  * [How can create my own maps or edit existing ones?](#how-can-create-my-own-maps-or-edit-existing-ones)
+  * [Does WebLiero support Gusanos/LieroX/OpenLieroX maps or mods?](#does-webliero-support-gusanos-lierox-openlierox-maps-or-mods)
   * [Does WebLiero have bots?](#does-webliero-have-bots)
 * [Game modes](#game-modes)
   * [What game modes does WebLiero support?](#what-game-modes-does-webliero-support)
@@ -23,18 +24,22 @@ To add a question create an issue or submit a pull request (all you need to know
 
 ## General
 
-### How is WebLiero different from the original DOS Liero?
+### How is WebLiero different from the original MS-DOS Liero?
 
 Besides the obvious differences (like the fact that it's played in a browser and has online-multiplayer), here are some other differences:
 
 * Worms have no shadows
 * The random map generator uses a different (improved) terrain generation algorithm
 * Maps can be mirrored to allow double the play area
-* *(this list is incomplete, help me complete it)*
+* *(this list is incomplete and/or outdated, help me complete it by opening an issue)*
 
 ### Does WebLiero support loading custom Liero maps?
 
 Yes. If you're the host of a room you can load maps in .lev format from the Admin menu.
+
+### Does WebLiero support Gusanos/LieroX/OpenLieroX maps or mods?
+
+No.
 
 ### How can create my own maps or edit existing ones?
 
