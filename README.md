@@ -38,13 +38,13 @@ Besides the obvious differences (like the fact that it's played in a browser and
 
 Yes. If you're the host of a room you can load maps in .lev format from the Admin menu.
 
-### Does WebLiero support Gusanos/LieroX/OpenLieroX maps and/or mods?
-
-No. WebLiero is based on the original MS-DOS Liero, and thus is only compatible with content for that game.
-
 ### How can create my own maps or edit existing ones?
 
 Check the [pilaf/liero-palettes](https://github.com/pilaf/liero-palettes) GitHub repo, which contains a guide on how to edit Liero maps using available free software.
+
+### Does WebLiero support Gusanos/LieroX/OpenLieroX maps and/or mods?
+
+No. WebLiero is based on the original MS-DOS Liero, and thus is only compatible with content for that game.
 
 ### Does WebLiero have bots?
 
