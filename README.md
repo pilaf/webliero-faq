@@ -14,6 +14,7 @@ To add a question create an issue or submit a pull request (all you need to know
   * [Does WebLiero have bots?](#does-webliero-have-bots)
 * [How to play](#how-to-play)
   * [What are the default WebLiero controls?](#what-are-the-default-webliero-controls)
+  * [What are some lesser known tips on Liero controls?](#what-are-some-lesser-known-tips-on-liero-controls)
 * [Game modes](#game-modes)
   * [What game modes does WebLiero support?](#what-game-modes-does-webliero-support)
 * [Room List](#room-list)
@@ -65,13 +66,19 @@ The default controls are:
 * Up/Down arrows to aim
 * A/S/D are your default keys to shoot, jump, and show weapon, respectively
 * Press show weapon + arrow (left or right) to switch weapons
-* Press show weapon + jump to shoot the grapple hook
+* Press show weapon + jump to shoot the ninja rope
 * To dig through dirt, tap C, or alternatively, hold the forward arrow key while tapping backward arrow
 
 Additional keys:
 
 * Hold the tab key to view the player scores
 * Press enter to open the chat window
+
+### What are some lesser known tips on Liero controls?
+
+* You can shorten/lengthen the ninja rope by holding the show weapon key and pressing up/down
+* You can make missiles go faster by pressing the up key
+* On steeply sloped surfaces (i.e. ramps) you can quickly gain vertical speed by repeatedly tapping the jump key while walking towards the ramp
 
 ## Game modes
 
