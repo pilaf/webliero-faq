@@ -10,7 +10,7 @@ To add a question create an issue or submit a pull request (all you need to know
   * [How is WebLiero different from the original MS-DOS Liero?](#how-is-webliero-different-from-the-original-ms-dos-liero)
   * [Does WebLiero support loading custom Liero maps?](#does-webliero-support-loading-custom-liero-maps)
   * [How can create my own maps or edit existing ones?](#how-can-create-my-own-maps-or-edit-existing-ones)
-  * [Does WebLiero support Gusanos/LieroX/OpenLieroX maps or mods?](#does-webliero-support-gusanos-lierox-openlierox-maps-or-mods)
+  * [Does WebLiero support Gusanos/LieroX/OpenLieroX maps or mods?](#does-webliero-support-gusanoslieroxopenlierox-maps-andor-mods)
   * [Does WebLiero have bots?](#does-webliero-have-bots)
 * [Game modes](#game-modes)
   * [What game modes does WebLiero support?](#what-game-modes-does-webliero-support)
@@ -37,9 +37,9 @@ Besides the obvious differences (like the fact that it's played in a browser and
 
 Yes. If you're the host of a room you can load maps in .lev format from the Admin menu.
 
-### Does WebLiero support Gusanos/LieroX/OpenLieroX maps or mods?
+### Does WebLiero support Gusanos/LieroX/OpenLieroX maps and/or mods?
 
-No.
+No. WebLiero is based on the original MS-DOS Liero, and thus is only compatible with content for that game.
 
 ### How can create my own maps or edit existing ones?
 
