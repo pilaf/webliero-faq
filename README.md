@@ -17,7 +17,7 @@ To add a question create an issue or submit a pull request (all you need to know
   * [What are rooms with DED in their name?](#what-are-rooms-with-ded-in-their-name)
 * [Mods](#mods)
   * [Does WebLiero support loading custom mods](#does-webliero-support-loading-mods)
-  * [Can WebLiero load original LIERO.EXE mods?](#can-webliero-load-original-liero-exe-mods)
+  * [Can WebLiero load original LIERO.EXE mods?](#can-webliero-load-original-lieroexe-mods)
 
 ## General
 
