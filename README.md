@@ -71,9 +71,9 @@ That is not to say that WebLiero will never have mouse aim, but it's a complex i
 
 ### Can WebLiero be played on mobile?
 
-No. While the website will load and the game will run just fine on mobile browsers, WebLiero requires a proper keyboard to be controlled. You can spectate games on mobile though, but not much else.
+The short answer is no. While the website will load and the game will run just fine on mobile browsers, WebLiero requires a proper keyboard to be controlled. You can spectate games on mobile though, but not much else.
 
-Perhaps using a Bluetooth keyboard would work, if you happen to know please open an issue and I'll update this answer.
+If you have a Bluetooth keyboard or gamepad though you may be able to control the game as well.
 
 ## How to play
 
@@ -85,9 +85,9 @@ The default control scheme is:
 
 * Left/Right arrows to move
 * Up/Down arrows to aim
-* A/S/D are your default keys to shoot, jump, and show weapon, respectively
-* Press show weapon + arrow (left or right) to switch weapons
-* Press show weapon + jump to shoot the ninja rope
+* A/S/D to shoot, jump, and show weapon, respectively
+* Press show weapon (D) + arrow (left or right) to switch weapons
+* Press show weapon (D) + jump (S) to shoot the ninja rope
 * To dig through dirt, tap C, or alternatively, hold the forward arrow key while tapping backward arrow
 
 Additional keys:
