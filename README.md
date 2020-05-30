@@ -21,6 +21,7 @@ To add a question create an issue or submit a pull request (all you need to know
   * [Can WebLiero load original LIERO.EXE mods?](#can-webliero-load-original-lieroexe-mods)
 * [Community](#community)
   * [Where can I interact with the WebLiero community?](#where-can-i-interact-with-the-webliero-community)
+  * [What are other websites related to WebLiero?](#what-are-other-websites-related-to-webliero)
 
 ## General
 
@@ -93,4 +94,11 @@ No. WebLiero uses its own mod format. Eventually there may be tools to convert f
 
 For English language discussions about WebLiero you can join the [Liero Discord server](https://discord.gg/UmmtcA6), or the [/r/liero](https://reddit.com/r/liero) subreddit. Both are for general Liero discussion (i.e. not just WebLiero), but WebLiero being the most actively played Liero clone it's the main topic of discussion in both forums.
 
+For Polish language you may check out the original [Liga Liero Forums](https://www.liero.org.pl/).
+
 There may be discussions forums in other languages, if you know of any please open an issue to have it added here.
+
+### What are other websites related to WebLiero?
+
+* [Liero.be](http://liero.be/) is the official Liero website. There you can find downloadable versions of the original Liero, as well as information on the history of Liero and news about the game.
+* [Liero Hell Hole](http://www.liero.nl/) is the biggest archive of original Liero content, especially maps (most of which work with WebLiero). The website has been running since the early 2000s, so it's a bit outdated in terms of web design, but it's an invaluable resource for the Liero community.
