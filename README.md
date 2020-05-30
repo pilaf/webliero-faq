@@ -99,6 +99,12 @@ If you have questions you can ask in the community [Discord](#where-can-i-intera
 
 As WebLiero matures better tooling for editing mods may appear.
 
+### What can mods change in the game?
+
+While mods can radically change how the game looks and feels, they are limited in what they can do. Mods can change the game's color palette, game sprites (i.e. the art for worms and particles), weapons, and some game physics properties (i.e. gravity, movement speed, etc.). Mods *cannot* be scripted however, meaning any changes to the game outside of the aforementioned list is outside their scope (i.e. you can't add game modes or change the core game logic through mods).
+
+While that may sound limiting, through creative use of the weapon/particle system, creating innovative mods is still very much possible.
+
 ## Community
 
 ### Where can I interact with the WebLiero community?
