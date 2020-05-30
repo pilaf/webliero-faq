@@ -7,12 +7,14 @@ To add a question create an issue or submit a pull request (all you need to know
 ## Index
 
 * [General](#general)
+  * [Which browsers support WebLiero?](#which-browsers-support-webliero)
   * [How is WebLiero different from the original MS-DOS Liero?](#how-is-webliero-different-from-the-original-ms-dos-liero)
   * [Does WebLiero support loading custom Liero maps?](#does-webliero-support-loading-custom-liero-maps)
   * [How can I create my own maps or edit existing ones?](#how-can-i-create-my-own-maps-or-edit-existing-ones)
   * [Does WebLiero support Gusanos/LieroX/OpenLieroX maps or mods?](#does-webliero-support-gusanoslieroxopenlierox-maps-andor-mods)
   * [Does WebLiero have bots?](#does-webliero-have-bots)
   * [Why doesn't WebLiero have mouse aim?](#why-doesnt-webliero-have-mouse-aim)
+  * [Can WebLiero be playerd on Mobile?](#can-webliero-be-played-on-mobile)
 * [How to play](#how-to-play)
   * [What are the default WebLiero controls?](#what-are-the-default-webliero-controls)
   * [What are some popular alternative control schemes?](#what-are-some-popular-alternative-control-schemes)
@@ -31,6 +33,10 @@ To add a question create an issue or submit a pull request (all you need to know
   * [What are other websites related to WebLiero?](#what-are-other-websites-related-to-webliero)
 
 ## General
+
+### Which browsers support WebLiero?
+
+Firefox, Chrome/Chromium and other Chromium-based browsers (e.g. Opera).
 
 ### How is WebLiero different from the original MS-DOS Liero?
 
@@ -61,6 +67,12 @@ No. Every player you see is a real human.
 The original MS-DOS Liero had keyboard aim controls and WebLiero tries to mimic the original Liero as much as possible. Incorporating mouse aim would also drastically change the the metagame, giving an unfair advantage to mouse-aiming players, while many in the Liero community prefer to keep the classic keyboard aim controls. In addition, the developer of WebLiero has said that there may be technical reasons why adding mouse aim may not be as simple as it seems.
 
 That is not to say that WebLiero will never have mouse aim, but it's a complex issue.
+
+### Can WebLiero be playerd on Mobile?
+
+No. While the website will load and the game will run just fine on mobile browsers, WebLiero requires a proper keyboard to be controlled. You can spectate games on mobile though, but not much else.
+
+Perhaps using a Bluetooth keyboard would work, if you happen to know please open an issue and I'll update this answer.
 
 ## How to play
 
