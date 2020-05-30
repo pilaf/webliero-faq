@@ -20,6 +20,7 @@ To add a question create an issue or submit a pull request (all you need to know
   * [Does WebLiero support loading custom mods](#does-webliero-support-loading-mods)
   * [Can WebLiero load original LIERO.EXE mods?](#can-webliero-load-original-lieroexe-mods)
   * [How can I make my own mods?](#how-can-i-make-my-own-mods)
+  * [What can mods change in the game?](#what-can-mods-change-in-the-game)
 * [Community](#community)
   * [Where can I interact with the WebLiero community?](#where-can-i-interact-with-the-webliero-community)
   * [What are other websites related to WebLiero?](#what-are-other-websites-related-to-webliero)
