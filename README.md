@@ -9,7 +9,7 @@ To add a question create an issue or submit a pull request (all you need to know
 * [General](#general)
   * [How is WebLiero different from the original MS-DOS Liero?](#how-is-webliero-different-from-the-original-ms-dos-liero)
   * [Does WebLiero support loading custom Liero maps?](#does-webliero-support-loading-custom-liero-maps)
-  * [How can create my own maps or edit existing ones?](#how-can-create-my-own-maps-or-edit-existing-ones)
+  * [How can I create my own maps or edit existing ones?](#how-can-i-create-my-own-maps-or-edit-existing-ones)
   * [Does WebLiero support Gusanos/LieroX/OpenLieroX maps or mods?](#does-webliero-support-gusanoslieroxopenlierox-maps-andor-mods)
   * [Does WebLiero have bots?](#does-webliero-have-bots)
 * [Game modes](#game-modes)
@@ -39,7 +39,7 @@ Besides the obvious differences (like the fact that it's played in a browser and
 
 Yes. If you're the host of a room you can load maps in .lev format from the Admin menu.
 
-### How can create my own maps or edit existing ones?
+### How can I create my own maps or edit existing ones?
 
 Check the [pilaf/liero-palettes](https://github.com/pilaf/liero-palettes) GitHub repo, which contains a guide on how to edit Liero maps using available free software.
 
