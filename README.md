@@ -12,6 +12,8 @@ To add a question create an issue or submit a pull request (all you need to know
   * [How can I create my own maps or edit existing ones?](#how-can-i-create-my-own-maps-or-edit-existing-ones)
   * [Does WebLiero support Gusanos/LieroX/OpenLieroX maps or mods?](#does-webliero-support-gusanoslieroxopenlierox-maps-andor-mods)
   * [Does WebLiero have bots?](#does-webliero-have-bots)
+* [How to play](#how-to-play)
+  * [What are the default WebLiero controls?](#what-are-the-default-webliero-controls)
 * [Game modes](#game-modes)
   * [What game modes does WebLiero support?](#what-game-modes-does-webliero-support)
 * [Room List](#room-list)
@@ -51,6 +53,26 @@ No. WebLiero is based on the original MS-DOS Liero, and thus is only compatible 
 ### Does WebLiero have bots?
 
 No. Every player you see is a real human.
+
+## How to play
+
+### What are the default WebLiero controls?
+
+<p><img src="keyboard-layout.svg"></p>
+
+The default controls are:
+
+* Left/Right arrows to move
+* Up/Down arrows to aim
+* A/S/D are your default keys to shoot, jump, and show weapon, respectively
+* Press show weapon + arrow (left or right) to switch weapons
+* Press show weapon + jump to shoot the grapple hook
+* To dig through dirt, tap C, or alternatively, hold the forward arrow key while tapping backward arrow
+
+Additional keys:
+
+* Hold the tab key to view the player scores
+* Press enter to open the chat window
 
 ## Game modes
 
