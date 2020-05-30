@@ -14,6 +14,7 @@ To add a question create an issue or submit a pull request (all you need to know
   * [Does WebLiero have bots?](#does-webliero-have-bots)
 * [How to play](#how-to-play)
   * [What are the default WebLiero controls?](#what-are-the-default-webliero-controls)
+  * [What are some popular alternative control schemes?](#what-are-some-popular-alternative-control-schemes)
   * [What are some lesser known tips on Liero controls?](#what-are-some-lesser-known-tips-on-liero-controls)
 * [Game modes](#game-modes)
   * [What game modes does WebLiero support?](#what-game-modes-does-webliero-support)
@@ -60,10 +61,10 @@ No. Every player you see is a real human.
 
 <p><img src="keyboard-layout.svg"></p>
 
-The default controls are:
+The default control scheme is:
 
 * Left/Right arrows to move
-* Up/Down arrows to aim
+* Up/down arrows to aim
 * A/S/D are your default keys to shoot, jump, and show weapon, respectively
 * Press show weapon + arrow (left or right) to switch weapons
 * Press show weapon + jump to shoot the ninja rope
@@ -73,6 +74,15 @@ Additional keys:
 
 * Hold the tab key to view the player scores
 * Press enter to open the chat window
+
+### What are some popular alternative control schemes?
+
+While you should tinker with the control scheme on your own to see what works best for you, here's an alternative for you to try that some players are known to use:
+
+* W/A/S/D for movement/aim
+* F/G/H for shoot, jump, and show weapon, respectively
+* Q/E for quick weapon change
+* R for weapon reload (this  has no default key binding)
 
 ### What are some lesser known tips on Liero controls?
 
