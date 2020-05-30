@@ -17,6 +17,7 @@ You can share this FAQ with the shortened URL [git.io/wlfaq](https://git.io/wlfa
   * [Does WebLiero have bots?](#does-webliero-have-bots)
   * [Why doesn't WebLiero have mouse aim?](#why-doesnt-webliero-have-mouse-aim)
   * [Can WebLiero be playerd on mobile?](#can-webliero-be-played-on-mobile)
+  * [Is WebLiero open source?](#is-webliero-open-source)
 * [How to play](#how-to-play)
   * [What are the default WebLiero controls?](#what-are-the-default-webliero-controls)
   * [What are some popular alternative control schemes?](#what-are-some-popular-alternative-control-schemes)
@@ -77,6 +78,10 @@ That is not to say that WebLiero will never have mouse aim, but it's a complex i
 The short answer is no. While the website will load and the game will run just fine on mobile browsers, WebLiero requires a proper keyboard to be controlled. You can spectate games on mobile though, but not much else.
 
 If you have a Bluetooth keyboard or gamepad though you may be able to control the game as well.
+
+### Is WebLiero open source?
+
+No, but Liero 1.36 (on which WebLiero is based, except for netplay) is, you can find the source code [here](https://github.com/gliptic/liero).
 
 ## How to play
 
