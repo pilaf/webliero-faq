@@ -11,7 +11,7 @@ To add a question create an issue or submit a pull request (all you need to know
   * [How is WebLiero different from the original MS-DOS Liero?](#how-is-webliero-different-from-the-original-ms-dos-liero)
   * [Does WebLiero support loading custom Liero maps?](#does-webliero-support-loading-custom-liero-maps)
   * [How can I create my own maps or edit existing ones?](#how-can-i-create-my-own-maps-or-edit-existing-ones)
-  * [Does WebLiero support Gusanos/LieroX/OpenLieroX maps or mods?](#does-webliero-support-gusanoslieroxopenlierox-maps-andor-mods)
+  * [Does WebLiero support Gusanos/LieroX/OpenLieroX maps and/or mods?](#does-webliero-support-gusanoslieroxopenlierox-maps-andor-mods)
   * [Does WebLiero have bots?](#does-webliero-have-bots)
   * [Why doesn't WebLiero have mouse aim?](#why-doesnt-webliero-have-mouse-aim)
   * [Can WebLiero be playerd on Mobile?](#can-webliero-be-played-on-mobile)
