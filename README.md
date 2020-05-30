@@ -33,7 +33,6 @@ To add a question create an issue or submit a pull request (all you need to know
 
 Besides the obvious differences (like the fact that it's played in a browser and has online-multiplayer), here are some other differences:
 
-* Worms have no shadows
 * The random map generator uses a different (improved) terrain generation algorithm
 * Maps can be mirrored to allow double the play area
 * *(this list is incomplete and/or outdated, help me complete it by opening an issue)*
