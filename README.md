@@ -44,7 +44,7 @@ No. WebLiero is based on the original MS-DOS Liero, and thus is only compatible 
 
 ### How can create my own maps or edit existing ones?
 
-Check the [liero-palettes](https://github.com/pilaf/liero-palettes) GitHub repo, which contains a guide on how to edit Liero maps using available free software.
+Check the [pilaf/liero-palettes](https://github.com/pilaf/liero-palettes) GitHub repo, which contains a guide on how to edit Liero maps using available free software.
 
 ### Does WebLiero have bots?
 
