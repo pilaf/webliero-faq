@@ -29,7 +29,7 @@ You can share this FAQ with the shortened URL [git.io/wlfaq](https://git.io/wlfa
 * [Room List](#room-list)
   * [What are rooms with DED in their name?](#what-are-rooms-with-ded-in-their-name)
 * [Mods](#mods)
-  * [Does WebLiero support loading custom mods](#does-webliero-support-loading-mods)
+  * [Does WebLiero support loading custom mods?](#does-webliero-support-loading-custom-mods)
   * [Can WebLiero load original LIERO.EXE mods?](#can-webliero-load-original-lieroexe-mods)
   * [How can I make my own mods?](#how-can-i-make-my-own-mods)
   * [What can mods change in the game?](#what-can-mods-change-in-the-game)
@@ -49,11 +49,13 @@ Besides the obvious differences (like the fact that it's played in a browser and
 
 * The random map generator uses a different (improved) terrain generation algorithm
 * Maps can be mirrored to allow double the play area
+* WebLiero supports maps in any size, not just the 504&times;350 size supported by classic Liero
+* WebLiero implements classic deathmatch, and 3 additional new game modes: hold the flag, last man standing and team deathmatch. On the other hand, WebLiero doesn't yet implement game of tag and capture the flag game modes (both available in classic Liero)
 * *(this list is incomplete and/or outdated, help me complete it by opening an issue)*
 
 ### Does WebLiero support loading custom Liero maps?
 
-Yes. If you're the host of a room you can load maps in .lev format from the Admin menu.
+Yes. If you're room admin you can load maps in .lev or .png format from the Admin menu.
 
 ### How can I create my own maps or edit existing ones?
 
@@ -163,7 +165,7 @@ DED stands for *dedicated*. Those are rooms hosted by dedicated servers and are 
 
 ### Does WebLiero support loading custom mods?
 
-Yes. You can load mods by entering the `/loadmod` command in the chat and selecting both the mod.json5 and sprites.wlsprt files.
+Yes. If you're a room admin you can load mods by entering the `/loadmod` command in the chat and selecting both the mod.json5 and sprites.wlsprt files.
 
 ### Can WebLiero load original LIERO.EXE mods?
 
