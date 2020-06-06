@@ -165,7 +165,7 @@ DED stands for *dedicated*. Those are rooms hosted by dedicated servers and are 
 
 ### Does WebLiero support loading custom mods?
 
-Yes. If you're a room admin you can load mods by entering the `/loadmod` command in the chat and selecting both the mod.json5 and sprites.wlsprt files.
+Yes. If you're a room admin you can load mods by entering the `/loadmod` command in the chat and selecting both the mod.json5 and sprites.wlsprt files, or simply a zipfile (.zip) containing both files.
 
 ### Can WebLiero load original LIERO.EXE mods?
 
