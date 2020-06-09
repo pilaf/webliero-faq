@@ -28,6 +28,10 @@ You can share this FAQ with the shortened URL [git.io/wlfaq](https://git.io/wlfa
   * [Can I implement my own game modes?](#can-i-implement-my-own-game-modes)
 * [Room List](#room-list)
   * [What are rooms with DED in their name?](#what-are-rooms-with-ded-in-their-name)
+* [In-game chat](#in-game-chat)
+  * [How do I open the chat window?](#how-do-i-open-the-chat-window)
+  * [Can I tag players in chat?](#can-i-tag-players-in-chat)
+  * [What are chat commands?](#what-are-chat-commands)
 * [Mods](#mods)
   * [Does WebLiero support loading custom mods?](#does-webliero-support-loading-custom-mods)
   * [Can WebLiero load original LIERO.EXE mods?](#can-webliero-load-original-lieroexe-mods)
@@ -160,6 +164,25 @@ In addition, some room settings, maps and/or mods can significantly alter gamepl
 ### What are rooms with DED in their name?
 
 DED stands for *dedicated*. Those are rooms hosted by dedicated servers and are on 24-7. Since they're on dedicated servers they tend to have good network reliability (i.e. low lag).
+
+## In-game chat
+
+### How do I open the chat window?
+
+The default key for opening the chat window is `Enter`. To close the chat window press `Esc`, or click somewhere outside the chat window.
+
+### Can I tag players in chat?
+
+Yes, you can tag players with @ followed by a player name. You'll get an autocomplete dropdown as soon as you type @. Tagged players will see that message highlighted and will hear a different message notification chime.
+
+### What are chat commands?
+
+In WebLiero some advanced actions don't have an UI, but can be accessed as chat commands instead. Chat commands follow the syntax `/command parameters` (not all commands take parameters). Commands are:
+
+Command | Parameters | What it does
+--------|------------|-------------
+`/handicap` | Milliseconds (e.g. `100`) | Sets the "ping handicap" (by default it's zero), which can be useful in 1v1 matches where one of the players has much larger ping to the server than the other (e.g. 20ms vs 200ms). In that case the player with best ping can se the handicap to be roughly half of the ping of the other player to try to even the lag.
+`/loadmod` | *None* | Loads a mod. Once issued it will open a file select dialog for you to select the mod files.
 
 ## Mods
 
