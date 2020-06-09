@@ -37,6 +37,8 @@ You can share this FAQ with the shortened URL [git.io/wlfaq](https://git.io/wlfa
   * [Can WebLiero load original LIERO.EXE mods?](#can-webliero-load-original-lieroexe-mods)
   * [How can I make my own mods?](#how-can-i-make-my-own-mods)
   * [What can mods change in the game?](#what-can-mods-change-in-the-game)
+* [Known issues](#known-issues)
+  * [My \<insert action here\> key is stuck, how do I fix it?](#my-insert-action-here-key-is-stuck-how-do-i-fix-it)
 * [Community](#community)
   * [Where can I interact with the WebLiero community?](#where-can-i-interact-with-the-webliero-community)
   * [What are other websites related to WebLiero?](#what-are-other-websites-related-to-webliero)
@@ -209,6 +211,12 @@ As WebLiero matures better tooling for editing mods may appear.
 While mods can radically change how the game looks and feels, they are limited in what they can do. Mods can change the game's color palette, game sprites (i.e. the art for worms and particles), weapons, and some game physics properties (i.e. gravity, movement speed, etc.). Mods *cannot* be scripted however, meaning any changes to the game outside of the aforementioned list is outside their scope (i.e. you can't add game modes or change the core game logic through mods).
 
 While that may sound limiting, through creative use of the weapon/particle system, creating innovative mods is still very much possible.
+
+## Known issues
+
+### My \<insert action here\> key is stuck, how do I fix it?
+
+If you're holding a key in the game while you switch away from the browser window, or to another browser tab, that key will tend to get stuck, even after you come back to the game. For instance, if you were pressing the left key and simultaneously press alt-tab, the worm will keep walking left. To fix this just press the stuck key once and it will get unstuck.
 
 ## Community
 
