@@ -39,7 +39,7 @@ You can share this FAQ with the shortened URL [git.io/wlfaq](https://git.io/wlfa
   * [What can mods change in the game?](#what-can-mods-change-in-the-game)
 * [Known issues](#known-issues)
   * [My \<insert action here\> key is stuck, how do I fix it?](#my-insert-action-here-key-is-stuck-how-do-i-fix-it)
-  [My worm spawned inside walls and I can't get out](#my-worm-spawned-inside-walls-and-i-cant-get-out)
+  * [My worm spawned inside walls and I can't get out](#my-worm-spawned-inside-walls-and-i-cant-get-out)
 * [Community](#community)
   * [Where can I interact with the WebLiero community?](#where-can-i-interact-with-the-webliero-community)
   * [What are other websites related to WebLiero?](#what-are-other-websites-related-to-webliero)
