@@ -173,7 +173,7 @@ The default key for opening the chat window is `Enter`. To close the chat window
 
 ### Can I tag players in chat?
 
-Yes, you can tag players with @ followed by a player name. You'll get an autocomplete dropdown as soon as you type @. Tagged players will see that message highlighted and will hear a different message notification chime.
+You can tag players with @ followed by a player name (e.g. `@pilaf`), you'll get an autocomplete dropdown as soon as you type @. Tagged players will see that message highlighted and will hear a different message notification chime.
 
 ### What are chat commands?
 
