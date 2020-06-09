@@ -40,6 +40,7 @@ You can share this FAQ with the shortened URL [git.io/wlfaq](https://git.io/wlfa
 * [Known issues](#known-issues)
   * [My \<insert action here\> key is stuck, how do I fix it?](#my-insert-action-here-key-is-stuck-how-do-i-fix-it)
   * [My worm spawned inside walls and I can't get out](#my-worm-spawned-inside-walls-and-i-cant-get-out)
+  * [Why do I get a lag spike every time someone joins the room?](#why-do-i-get-a-lag-spike-every-time-someone-joins-the-room)
 * [Community](#community)
   * [Where can I interact with the WebLiero community?](#where-can-i-interact-with-the-webliero-community)
   * [What are other websites related to WebLiero?](#what-are-other-websites-related-to-webliero)
@@ -222,6 +223,12 @@ If you're holding a key in the game while you switch away from the browser windo
 ### My worm spawned inside walls and I can't get out
 
 Some maps unfortunately are poorly designed and have cracks or pockets of dirt inside solid walls into which worms can spawn. Whenever a worm spawns the game simply finds a point in the map at random where the worm fits, so every so often one of those bad points will be chosen. The only way to fix this is to simply not play in such maps. Once you spawned in a spot like that your only choices are suicide to respawn (thus losing one point in deathmatch mode), having someone else kill your worm (giving them one point), or moving to spectator and joining back (resetting your score back to zero).
+
+### Why do I get a lag spike every time someone joins the room?
+
+Whenever someone joins a room the host has to send the entire game state to the new joinee. This includes the current map, mod and every particle flying around at that moment. While this doesn't normally add up to a huge amount of data, it's a lot more data than the server connection needs to handle for normal game events, meaning there will be a spike in the host's bandwidth usage for a brief moment. If the host's connection doesn't have enough bandwidth this can cause the host to "freeze" for a second or two until it's done sending data to the new joinee, making everyone in the room lag.
+
+Unfortunately the only known solution for this is to upgrade the host's bandwidth.
 
 ## Community
 
