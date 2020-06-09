@@ -39,6 +39,7 @@ You can share this FAQ with the shortened URL [git.io/wlfaq](https://git.io/wlfa
   * [What can mods change in the game?](#what-can-mods-change-in-the-game)
 * [Known issues](#known-issues)
   * [My \<insert action here\> key is stuck, how do I fix it?](#my-insert-action-here-key-is-stuck-how-do-i-fix-it)
+  [My worm spawned inside walls and I can't get out](#my-worm-spawned-inside-walls-and-i-cant-get-out)
 * [Community](#community)
   * [Where can I interact with the WebLiero community?](#where-can-i-interact-with-the-webliero-community)
   * [What are other websites related to WebLiero?](#what-are-other-websites-related-to-webliero)
@@ -217,6 +218,10 @@ While that may sound limiting, through creative use of the weapon/particle syste
 ### My \<insert action here\> key is stuck, how do I fix it?
 
 If you're holding a key in the game while you switch away from the browser window, or to another browser tab, that key will tend to get stuck, even after you come back to the game. For instance, if you were pressing the left key and simultaneously press alt-tab, the worm will keep walking left. To fix this just press the stuck key once and it will get unstuck.
+
+### My worm spawned inside walls and I can't get out
+
+Some maps unfortunately are poorly designed and have cracks or pockets of dirt inside solid walls into which worms can spawn. Whenever a worm spawns the game simply finds a point in the map at random where the worm fits, so every so often one of those bad points will be chosen. The only way to fix this is to simply not play in such maps. Once you spawned in a spot like that your only choices are suicide to respawn (thus losing one point in deathmatch mode), having someone else kill your worm (giving them one point), or moving to spectator and joining back (resetting your score back to zero).
 
 ## Community
 
