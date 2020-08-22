@@ -15,6 +15,6 @@
 * Added flag indicator for when flag goes out of screen in Hold the Flag mode.
 * Flag now resets position if not grabbed for about 15 seconds (to prevent it getting stuck at unreachable places).
 
-## August 10, 2020
+## August 10, 2019
 
 * WebLiero officially released ([Twitter announcement](https://twitter.com/lieroofficial/status/1160174180337442817))
