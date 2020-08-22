@@ -18,6 +18,7 @@ You can share this FAQ with the shortened URL [git.io/wlfaq](https://git.io/wlfa
   * [Why doesn't WebLiero have mouse aim?](#why-doesnt-webliero-have-mouse-aim)
   * [Can WebLiero be playerd on mobile?](#can-webliero-be-played-on-mobile)
   * [Is WebLiero open-source?](#is-webliero-open-source)
+  * [Does WebLiero have a changelog?](#does-webliero-have-a-changelog)
 * [How to play](#how-to-play)
   * [What are the default WebLiero controls?](#what-are-the-default-webliero-controls)
   * [What are some popular alternative control schemes?](#what-are-some-popular-alternative-control-schemes)
@@ -92,6 +93,10 @@ If you have a Bluetooth keyboard or gamepad though you may be able to control th
 ### Is WebLiero open-source?
 
 No, but Liero 1.36 (on which WebLiero is based, except for netplay) is. You can find the source code [here](https://github.com/gliptic/liero).
+
+### Does WebLiero have a changelog?
+
+There's no official changelog, but an unofficial one is maintained [here](https://git.io/wlchanges).
 
 ## How to play
 
