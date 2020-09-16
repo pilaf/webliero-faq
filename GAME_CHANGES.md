@@ -1,5 +1,9 @@
 # WebLiero Unofficial Changelog
 
+## September 16, 2020
+
+* Added ability to load PNG maps through the Headless API with `loadPNGLevel()`
+
 ## July 11, 2020
 
 * Fixed a memory leak that caused servers to degrade over time, causing lag spikes (especially upon new players joining).
