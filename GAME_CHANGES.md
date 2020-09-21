@@ -1,5 +1,9 @@
 # WebLiero Unofficial Changelog
 
+## September 21, 2020
+
+* Added a switch for hiding spectator mode buttons ("Select Weapons"/"Join Game")
+
 ## September 16, 2020
 
 * Added ability to load PNG maps through the Headless API with `loadPNGLevel()`
