@@ -33,11 +33,11 @@ You can share this FAQ with the shortened URL [git.io/wlfaq](https://git.io/wlfa
   * [How do I open the chat window?](#how-do-i-open-the-chat-window)
   * [Can I tag players in chat?](#can-i-tag-players-in-chat)
   * [What are chat commands?](#what-are-chat-commands)
-* [Mods](#mods)
+* [Mods and modding](#mods-and-modding)
   * [Does WebLiero support loading custom mods?](#does-webliero-support-loading-custom-mods)
   * [Can WebLiero load original LIERO.EXE mods?](#can-webliero-load-original-lieroexe-mods)
-  * [How can I make my own mods?](#how-can-i-make-my-own-mods)
   * [What can mods change in the game?](#what-can-mods-change-in-the-game)
+  * [How can I make my own mods?](#how-can-i-make-my-own-mods)
 * [Known issues](#known-issues)
   * [My \<insert action here\> key is stuck, how do I fix it?](#my-insert-action-here-key-is-stuck-how-do-i-fix-it)
   * [My worm spawned inside walls and I can't get out](#my-worm-spawned-inside-walls-and-i-cant-get-out)
@@ -198,7 +198,7 @@ Command | Parameters | What it does
 
 \* Only admins can use this command
 
-## Mods
+## Mods and modding
 
 ### Does WebLiero support loading custom mods?
 
@@ -208,21 +208,21 @@ Yes. If you're a room admin you can load mods by entering the `/loadmod` command
 
 No. WebLiero uses its own mod format. Eventually there may be tools to convert from original LIERO.EXE mods to WebLiero mods.
 
-### How can I make my own mods?
-
-While you can, and are definitely welcome to create WebLiero mods, be warned that the mod format for WebLiero is not fully "solidified" yet. In other words, mods you create today may become incompatible and require updating as new versions of WebLiero get released. Once the developer of WebLiero settles on a final mod format this warning may become obsolete, but there are no guarantees.
-
-That said, [Scharnvirk's WebLiero mods GitHub repo](https://github.com/Scharnvirk/webliero_mods) is a good place to start if you want to mod WebLiero. There's no official documentation yet, but you can tinker with the mods in that repo and try to figure out how things work on your own (it's not very difficult).
-
-If you have questions you can ask in the community [Discord](#where-can-i-interact-with-the-webliero-community).
-
-As WebLiero matures better tooling for editing mods may appear.
-
 ### What can mods change in the game?
 
 While mods can radically change how the game looks and feels, they are limited in what they can do. Mods can change the game's color palette, game sprites (i.e. the art for worms and particles), weapons, and some game physics properties (i.e. gravity, movement speed, etc.). Mods *cannot* be scripted however, meaning any changes to the game outside of the aforementioned list is outside their scope (i.e. you can't add game modes or change the core game logic through mods).
 
 While that may sound limiting, through creative use of the weapon/particle system, creating innovative mods is still very much possible.
+
+### How can I make my own mods?
+
+While you can, and are definitely welcome to create WebLiero mods, be warned that the mod format for WebLiero is not fully "solidified" yet. In other words, mods you create today may become incompatible and require updating as new versions of WebLiero get released. Once the developer of WebLiero settles on a final mod format this warning may become obsolete, but there are no guarantees.
+
+That said, [Vito's modding guide](https://github.com/Victorcorcos/liero-hacks/blob/main/mods/mod_guide.md) is probably the best place to start if you want to mod WebLiero. Tinkering with existing mods such as those in [Scharnvirk's WebLiero mods GitHub repo](https://github.com/Scharnvirk/webliero_mods) is another good way to get started.
+
+If you have questions you can ask in the community [Discord](#where-can-i-interact-with-the-webliero-community).
+
+As WebLiero matures better tooling for editing mods may appear.
 
 ## Known issues
 
