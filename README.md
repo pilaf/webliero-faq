@@ -220,7 +220,7 @@ While you can, and are definitely welcome to create WebLiero mods, be warned tha
 
 That said, [Vitu's modding guide](https://github.com/Victorcorcos/liero-hacks/blob/main/mods/mod_guide.md) is probably the best place to start if you want to mod WebLiero. Tinkering with existing mods such as those in [Scharnvirk's WebLiero mods GitHub repo](https://github.com/Scharnvirk/webliero_mods) is another good way to get started.
 
-If you have questions you can ask in the community [Discord](#where-can-i-interact-with-the-webliero-community).
+If you have questions you can ask in the community [Discord](#where-can-i-interact-with-the-webliero-community), under the #development channel.
 
 As WebLiero matures better tooling for editing mods may appear.
 
