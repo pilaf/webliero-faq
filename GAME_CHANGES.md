@@ -1,5 +1,7 @@
 # WebLiero Unofficial Changelog
 
+You can link to this changelog using the shortened URL https://git.io/wlchanges
+
 ## September 21, 2020
 
 * Added a switch for hiding spectator mode buttons ("Select Weapons"/"Join Game")
