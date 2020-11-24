@@ -204,7 +204,7 @@ Check the [pilaf/liero-palettes](https://github.com/pilaf/liero-palettes) GitHub
 
 ### Where can I find Liero/WebLiero maps to download
 
-[Liero Hell Hole](http://www.liero.nl/) has the greatest collection of classic Liero maps. WebLiero includes most of them by default, separated by categories. When you create a room you can select a map category and a random map from it will be picked for each match.
+[Liero Hell Hole](https://liero.nl/browse/levels) has the greatest collection of classic Liero maps. WebLiero includes most of them by default, separated by categories. When you create a room you can select a map category and a random map from it will be picked for each match.
 
 The [webliero-maps GitLab repo](https://gitlab.com/webliero/webliero-maps) contains all of the same maps as Liero Hell Hole plus a few new ones, sorted by author, as well as some headless scripts for loading those maps in your headless room.
 
@@ -262,5 +262,5 @@ There may be discussions forums in other languages, if you know of any please op
 
 ### What are other websites related to WebLiero?
 
-* [Liero.be](http://liero.be/) is the official Liero website. There you can find downloadable versions of the original Liero, as well as information on the history of Liero and news about the game.
-* [Liero Hell Hole](http://www.liero.nl/) is the biggest archive of original Liero content, especially maps (most of which work with WebLiero). The website has been running since the early 2000s, so it's a bit outdated in terms of web design, but it's an invaluable resource for the Liero community.
+* [Liero.be](https://liero.be/) is the official Liero website. There you can find downloadable versions of the original Liero, as well as information on the history of Liero and news about the game.
+* [Liero Hell Hole](https://www.liero.nl/) is the biggest archive of original Liero content, especially maps (most of which work with WebLiero). The website has been running since the early 2000s, so it's a bit outdated in terms of web design, but it's an invaluable resource for the Liero community.
