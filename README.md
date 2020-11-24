@@ -33,6 +33,7 @@ You can share this FAQ with the shortened URL [git.io/wlfaq](https://git.io/wlfa
   * [What are chat commands?](#what-are-chat-commands)
 * [Maps](#maps)
   * [Does WebLiero support loading custom Liero maps?](#does-webliero-support-loading-custom-liero-maps)
+  * [Does WebLiero support Liero powerlevels?](#does-webliero-support-liero-powerlevels)
   * [How can I create my own maps or edit existing ones?](#how-can-i-create-my-own-maps-or-edit-existing-ones)
   * [Where can I find Liero/WebLiero maps to download](#where-can-i-find-lierowebliero-maps-to-download)
 * [Mods and modding](#mods-and-modding)
