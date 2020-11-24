@@ -198,6 +198,10 @@ Command | Parameters | What it does
 
 Yes. If you're room admin you can load maps in .lev or .png format from the Admin menu.
 
+### Does WebLiero support Liero powerlevels?
+
+Powerlevels were maps for the original Liero that allowed changing the game palette. WebLiero doesn't currently support powerlevels.
+
 ### How can I create my own maps or edit existing ones?
 
 Check the [pilaf/liero-palettes](https://github.com/pilaf/liero-palettes) GitHub repo, which contains a guide on how to edit Liero maps using available free software.
