@@ -11,8 +11,6 @@ You can share this FAQ with the shortened URL [git.io/wlfaq](https://git.io/wlfa
 * [General](#general)
   * [Which browsers support WebLiero?](#which-browsers-support-webliero)
   * [How is WebLiero different from the original MS-DOS Liero?](#how-is-webliero-different-from-the-original-ms-dos-liero)
-  * [Does WebLiero support loading custom Liero maps?](#does-webliero-support-loading-custom-liero-maps)
-  * [How can I create my own maps or edit existing ones?](#how-can-i-create-my-own-maps-or-edit-existing-ones)
   * [Does WebLiero support Gusanos/LieroX/OpenLieroX maps and/or mods?](#does-webliero-support-gusanoslieroxopenlierox-maps-andor-mods)
   * [Does WebLiero have bots?](#does-webliero-have-bots)
   * [Why doesn't WebLiero have mouse aim?](#why-doesnt-webliero-have-mouse-aim)
@@ -33,6 +31,10 @@ You can share this FAQ with the shortened URL [git.io/wlfaq](https://git.io/wlfa
   * [How do I open the chat window?](#how-do-i-open-the-chat-window)
   * [Can I tag players in chat?](#can-i-tag-players-in-chat)
   * [What are chat commands?](#what-are-chat-commands)
+* [Maps](#maps)
+  * [Does WebLiero support loading custom Liero maps?](#does-webliero-support-loading-custom-liero-maps)
+  * [How can I create my own maps or edit existing ones?](#how-can-i-create-my-own-maps-or-edit-existing-ones)
+  * [Where can I find Liero/WebLiero maps to download](#where-can-i-find-lierowebliero-maps-to-download)
 * [Mods and modding](#mods-and-modding)
   * [Does WebLiero support loading custom mods?](#does-webliero-support-loading-custom-mods)
   * [Can WebLiero load original LIERO.EXE mods?](#can-webliero-load-original-lieroexe-mods)
@@ -61,14 +63,6 @@ Besides the obvious differences (like the fact that it's played in a browser and
 * WebLiero supports maps in any size, not just the 504&times;350 size supported by classic Liero
 * WebLiero implements classic deathmatch and 3 additional new game modes: hold the flag, last man standing and team deathmatch. On the other hand, WebLiero doesn't yet implement game of tag and capture the flag game modes (both available in classic Liero)
 * *(this list is incomplete and/or outdated, help me complete it by opening an issue)*
-
-### Does WebLiero support loading custom Liero maps?
-
-Yes. If you're room admin you can load maps in .lev or .png format from the Admin menu.
-
-### How can I create my own maps or edit existing ones?
-
-Check the [pilaf/liero-palettes](https://github.com/pilaf/liero-palettes) GitHub repo, which contains a guide on how to edit Liero maps using available free software.
 
 ### Does WebLiero support Gusanos/LieroX/OpenLieroX maps and/or mods?
 
@@ -197,6 +191,22 @@ Command | Parameters | What it does
 `/clear_bans`* | *None* | Removes all bans from the room, allowing previously banned players to join again.
 
 \* Only admins can use this command
+
+## Maps
+
+### Does WebLiero support loading custom Liero maps?
+
+Yes. If you're room admin you can load maps in .lev or .png format from the Admin menu.
+
+### How can I create my own maps or edit existing ones?
+
+Check the [pilaf/liero-palettes](https://github.com/pilaf/liero-palettes) GitHub repo, which contains a guide on how to edit Liero maps using available free software.
+
+### Where can I find Liero/WebLiero maps to download
+
+[Liero Hell Hole](http://www.liero.nl/) has the greatest collection of classic Liero maps. WebLiero includes most of them by default, separated by categories. When you create a room you can select a map category and a random map from it will be picked for each match.
+
+The [webliero-maps GitLab repo](https://gitlab.com/webliero/webliero-maps) contains all of the same maps as Liero Hell Hole plus a few new ones, sorted by author, as well as some headless scripts for loading those maps in your headless room.
 
 ## Mods and modding
 
