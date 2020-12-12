@@ -41,6 +41,7 @@ You can share this FAQ with the shortened URL [git.io/wlfaq](https://git.io/wlfa
   * [Can WebLiero load original LIERO.EXE mods?](#can-webliero-load-original-lieroexe-mods)
   * [What can mods change in the game?](#what-can-mods-change-in-the-game)
   * [How can I make my own mods?](#how-can-i-make-my-own-mods)
+  * [Where can I find WebLiero mods?](#where-can-i-find-webliero-mods)
 * [Known issues](#known-issues)
   * [My \<insert action here\> key is stuck, how do I fix it?](#my-insert-action-here-key-is-stuck-how-do-i-fix-it)
   * [My worm spawned inside walls and I can't get out](#my-worm-spawned-inside-walls-and-i-cant-get-out)
@@ -238,6 +239,10 @@ That said, [Vitu's modding guide](https://github.com/Victorcorcos/liero-hacks/bl
 If you have questions you can ask in the community [Discord](#where-can-i-interact-with-the-webliero-community), under the #development channel.
 
 As WebLiero matures better tooling for editing mods may appear.
+
+### Where can I find WebLiero mods?
+
+The [WebLiero mods GitLab repo](https://gitlab.com/webliero/webliero-mods) contains various WebLiero mods, including many classic ones but also some new ones.
 
 ## Known issues
 
