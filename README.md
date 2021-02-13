@@ -138,7 +138,7 @@ WebLiero doesn't have an official practice mode, but you can easily set up a mek
 
 ### What game modes does WebLiero support?
 
-Dathmatch, Hold the Flag, Last Man Standing and Team Deathmatch.
+Deathmatch, Hold the Flag, Last Man Standing and Team Deathmatch.
 
 #### Deathmatch
 
