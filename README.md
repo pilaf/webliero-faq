@@ -14,7 +14,7 @@ You can share this FAQ with the shortened URL [git.io/wlfaq](https://git.io/wlfa
   * [Does WebLiero support Gusanos/LieroX/OpenLieroX maps and/or mods?](#does-webliero-support-gusanoslieroxopenlierox-maps-andor-mods)
   * [Does WebLiero have bots?](#does-webliero-have-bots)
   * [Why doesn't WebLiero have mouse aim?](#why-doesnt-webliero-have-mouse-aim)
-  * [Can WebLiero be playerd on mobile?](#can-webliero-be-played-on-mobile)
+  * [Can WebLiero be played on mobile?](#can-webliero-be-played-on-mobile)
   * [Is WebLiero open-source?](#is-webliero-open-source)
   * [Does WebLiero have a changelog?](#does-webliero-have-a-changelog)
 * [How to play](#how-to-play)
