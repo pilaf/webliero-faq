@@ -234,7 +234,7 @@ While that may sound limiting, through creative use of the weapon/particle syste
 
 While you can, and are definitely welcome to create WebLiero mods, be warned that the mod format for WebLiero is not fully "solidified" yet. In other words, mods you create today may become incompatible and require updating as new versions of WebLiero get released. Once the developer of WebLiero settles on a final mod format this warning may become obsolete, but there are no guarantees.
 
-That said, [Vitu's modding guide](https://github.com/Victorcorcos/liero-hacks/blob/main/mods/mod_guide.md) is probably the best place to start if you want to mod WebLiero. Tinkering with existing mods such as those in [Scharnvirk's WebLiero mods GitHub repo](https://github.com/Scharnvirk/webliero_mods) is another good way to get started.
+That said, [Vitu's modding guide](https://github.com/Victorcorcos/liero-hacks/tree/main/mods) is probably the best place to start if you want to mod WebLiero. Tinkering with existing mods such as those in [Scharnvirk's WebLiero mods GitHub repo](https://github.com/Scharnvirk/webliero_mods) is another good way to get started.
 
 If you have questions you can ask in the community [Discord](#where-can-i-interact-with-the-webliero-community), under the #development channel.
 
