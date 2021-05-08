@@ -191,12 +191,14 @@ In WebLiero some advanced actions don't have an UI, but can be accessed as chat 
 Command | Parameters | What it does
 --------|------------|-------------
 `/handicap` | Milliseconds (e.g. `100`) | Sets the "ping handicap" (by default it's zero), which can be useful in 1v1 matches where one of the players has much larger ping to the server than the other (e.g. 20ms vs 200ms). In that case the player with best ping can se the handicap to be roughly half of the ping of the other player to try to even the lag.
-`/loadmod`* | *None* | Loads a mod. Once issued it will open a file select dialog for you to select the mod files.
-`/set_password`* | New password | Sets the password for the room.
-`/clear_password`* | *None* | Makes the room passwordless.
-`/clear_bans`* | *None* | Removes all bans from the room, allowing previously banned players to join again.
+`/loadmod` 🛠️ | *None* | Loads a mod. Once issued it will open a file select dialog for you to select the mod files.
+`/set_password` 🛠️🏠 | New password | Sets the password for the room.
+`/clear_password` 🛠️🏠 | *None* | Makes the room passwordless.
+`/clear_bans` 🛠️🏠 | *None* | Removes all bans from the room, allowing previously banned players to join again.
 
-\* Only admins can use this command
+🛠️ Admin rights are needed to run this command
+
+🏠 You need to be on the host to run this command
 
 ## Maps
 
