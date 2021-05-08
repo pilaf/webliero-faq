@@ -54,7 +54,9 @@ You can share this FAQ with the shortened URL [git.io/wlfaq](https://git.io/wlfa
 
 ### Which browsers support WebLiero?
 
-Firefox, Chrome/Chromium and other Chromium-based browsers (e.g. Opera). Safari is known **not** to work.
+Firefox, Chrome/Chromium and other Chromium-based browsers (e.g. Microsoft Edge, Opera, Brave, etc.).
+
+Safari is known **not** to work.
 
 ### How is WebLiero different from the original MS-DOS Liero?
 
