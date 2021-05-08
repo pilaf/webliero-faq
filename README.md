@@ -66,6 +66,8 @@ Besides the obvious differences (like the fact that it's played in a browser and
 * Maps can be mirrored to allow double the play area
 * WebLiero supports maps in any size, not just the 504&times;350 size supported by classic Liero
 * WebLiero implements classic deathmatch and 3 additional new game modes: hold the flag, last man standing and team deathmatch. On the other hand, WebLiero doesn't yet implement game of tag and capture the flag game modes (both available in classic Liero)
+* WebLiero displays dots at the edges of the screen showing the direction where other players are on the map
+* Some small graphical effects that were present in classic Liero are missing in WebLiero (e.g. dirt particles flying out when digging)
 * *(this list is incomplete and/or outdated, help me complete it by opening an issue)*
 
 ### Does WebLiero support Gusanos/LieroX/OpenLieroX maps and/or mods?
