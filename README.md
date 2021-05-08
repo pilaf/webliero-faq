@@ -62,9 +62,10 @@ Safari is known **not** to work.
 
 Besides the obvious differences (like the fact that it's played in a browser and has online-multiplayer), here are some other differences:
 
-* The random map generator uses a different (improved) terrain generation algorithm
-* Maps can be mirrored to allow double the play area
-* WebLiero supports maps in any size, not just the 504&times;350 size supported by classic Liero
+* WebLiero doesn't have split screen support
+* The random map generator on WebLiero uses a different (improved) terrain generation algorithm
+* Maps in WebLiero can be mirrored to allow twice the play area
+* WebLiero supports maps in any size (when provided in in PNG format), not just the 504&times;350 size supported by classic Liero (see the section of this FAQ on [maps](#maps) for more info)
 * WebLiero implements classic deathmatch and 3 additional new game modes: hold the flag, last man standing and team deathmatch. On the other hand, WebLiero doesn't yet implement game of tag and capture the flag game modes (both available in classic Liero)
 * WebLiero displays dots at the edges of the screen showing the direction where other players are on the map
 * Some small graphical effects that were present in classic Liero are missing in WebLiero (e.g. dirt particles flying out when digging)
