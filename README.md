@@ -188,7 +188,7 @@ You can tag players with @ followed by a player name (e.g. `@pilaf`), you'll get
 
 ### What are chat commands?
 
-In WebLiero some advanced actions don't have an UI, but can be accessed as chat commands instead. Chat commands follow the format `/command parameters` (but not all commands take parameters). The commands are:
+Some advanced actions or settings can be accessed as chat commands only. Chat commands follow the format `/command parameters` (but not all commands take parameters). The commands are:
 
 Command | Parameters | What it does
 --------|------------|-------------
