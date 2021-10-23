@@ -188,11 +188,12 @@ You can tag players with @ followed by a player name (e.g. `@pilaf`), you'll get
 
 ### What are chat commands?
 
-In WebLiero some advanced actions don't have an UI, but can be accessed as chat commands instead. Chat commands follow the syntax `/command parameters` (not all commands take parameters). Commands are:
+In WebLiero some advanced actions don't have an UI, but can be accessed as chat commands instead. Chat commands follow the format `/command parameters` (but not all commands take parameters). The commands are:
 
 Command | Parameters | What it does
 --------|------------|-------------
-`/handicap` | Milliseconds (e.g. `100`) | Sets the "ping handicap" (by default it's zero), which can be useful in 1v1 matches where one of the players has much larger ping to the server than the other (e.g. 20ms vs 200ms). In that case the player with best ping can se the handicap to be roughly half of the ping of the other player to try to even the lag.
+`/handicap` | Milliseconds (a number between `0` and `300`) | Sets the "ping handicap" (by default it's zero), which can be useful in 1v1 matches where one of the players has much larger ping to the server than the other (e.g. 20ms vs 200ms). In that case the player with best ping can se the handicap to be roughly half of the ping of the other player to try to even the lag.
+`/extrapolation` | Milliseconds (a number between `-200` and `200`) | Causes the game to extrapolate frames by a certain amount of milliseconds. It can be used to counteract the effects of input lag, but at the cost of extra "warping". It is recommended to leave this at 0 unless you have input delay.
 `/loadmod` 🛠️ | *None* | Loads a mod. Once issued it will open a file select dialog for you to select the mod files.
 `/set_password` 🛠️🏠 | New password | Sets the password for the room.
 `/clear_password` 🛠️🏠 | *None* | Makes the room passwordless.
