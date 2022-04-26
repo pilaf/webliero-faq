@@ -4,7 +4,7 @@ This is meant as a community-updated FAQ for [WebLiero](https://www.webliero.com
 
 To add a question create an issue or submit a pull request (all you need to know is Markdown syntax).
 
-You can share this FAQ with the shortened URL [git.io/wlfaq](https://git.io/wlfaq)
+You can share this FAQ with the URL https://github.com/pilaf/webliero-faq
 
 ## Index
 
@@ -98,7 +98,7 @@ No, but Liero 1.36 (on which WebLiero is based, except for netplay) is. You can 
 
 ### Does WebLiero have a changelog?
 
-There's no official changelog, but an unofficial one is maintained [here](https://git.io/wlchanges).
+There's no official changelog, but an unofficial one is maintained [here](GAME_CHANGES.md).
 
 ## How to play
 
